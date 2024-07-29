@@ -1,0 +1,68 @@
+.carCard {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: #fff;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  margin: 1rem;
+  transition: transform 0.2s;
+}
+
+.carCard:hover {
+  transform: translateY(-5px);
+}
+
+.carImage {
+  max-width: 100%;
+  height: auto;
+}
+
+.carDetails {
+  padding: 1rem;
+  text-align: center;
+}
+
+.carTitle {
+  font-size: 1.25rem;
+  margin: 0.5rem 0;
+  color: #333;
+}
+
+.carPrice {
+  font-size: 1rem;
+  color: #777;
+  margin: 0.5rem 0;
+}
+
+.carSpecs {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  font-size: 0.875rem;
+  color: #555;
+}
+
+.carSpecs p {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.carActions {
+  margin-top: 1rem;
+}
+
+.carActions label {
+  display: flex;
+  align-items: center;
+  font-size: 0.875rem;
+  color: #333;
+}
+
+.carActions input {
+  margin-right: 0.5rem;
+}

@@ -1,0 +1,320 @@
+﻿id,title,total_price,waiting_period,launch_date,rtoRegistration,top_speed,true_range,companyData__slug,Brand,image_url
+1,S1 X+,89999,90,15 08 2023 ,TRUE,90,151,ola-electric-ev,Ola,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/975ac0e028a991a744b2426f64a9dbb2
+2,S1 Pro (2nd Generation),132499,15,15 08 2023 ,TRUE,120,195,ola-electric-ev,Ola,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/fd11d13ac5dc5ffe0f6e52ea7f9c4922
+3,S1 Air EV,106499,25,01 07 2023 ,TRUE,90,151,ola-electric-ev,Ola,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2023-02-17-10-02-77-Screenshot_2023-01-18_183612-removebg-preview.png
+4,iQube S 3.4 kWh,147000,90,14 04 2022 ,TRUE,78,100,tvs-ev,TVS,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/aaf5dc50406e4f9b3b8eb1f54aa0f00d
+5,S1 X (4kWh),99999,90,02 02 2024 ,TRUE,90,190,ola-electric-ev,Ola,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/3df7de310319eee1dcc5d572c81a3410
+6,S1 X (2kWh),74999,90,15 08 2023 ,TRUE,85,95,ola-electric-ev,Ola,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/6b93482d26fd6b3c52c2806484cc4623
+7,One,109999,90,15 07 2022 ,TRUE,105,236,simple-energy-ev,Simple,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-06-04-06-06-29-blob
+8,S1 X (3kWh),84999,90,15 08 2023 ,TRUE,90,143,ola-electric-ev,Ola,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/6386fe17ca70e14c7cee9fa81e52ddef
+9,V1 PRO,145900,7,10 11 2022 ,TRUE,80,165,vida-world-ev,Vida,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/915f5216d711ca9ba6e65546037e2e42
+10,Indie,125000,180,22 03 2023 ,TRUE,90,120,river-ev,River,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2023-02-22-18-02-97-blob
+11,V1 PLUS,115000,120,10 10 2022 ,TRUE,80,143,vida-world-ev,Vida,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/5f7e3b81a97e02091d8efa5402ad8d7f
+12,iQube 3.4 kWh,131000,90,05 04 2022 ,TRUE,78,100,tvs-ev,TVS,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/d5221b75665129b9948737fd38546d7e
+13,Chetak URBANE Standard,115000,90,14 02 2022 ,TRUE,63,113,bajaj-ev,Bajaj,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/e10c2c3e6c10cde71abc4ca8bb12a60b
+14,iQube ST 5.1 kWh,186000,60,12 04 2022 ,TRUE,82,150,tvs-ev,TVS,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/a43de445ac082546bee4f55ce3e6ebfb
+15,RV400,154950,90,01 06 2019 ,TRUE,85,150,revolt-motors-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/9b63907bf2566ff03566eea2bfbe9a6b
+16,450X Pro (3.7 kWh),168054,0,03 08 2023 ,TRUE,90,150,ather-energy-ev,Ather,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/d3feddcc284e22499e93ad064a99a781
+17,Alish,42000,0,04 01 2000 ,TRUE,40,80,oreva-e-bike,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/67843195d2fac3ba378f859e6db7dd2f
+18,450X  EV - 3.7 kWh,145000,0,03 08 2023 ,TRUE,90,150,ather-energy-ev,Ather,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/117e76338fa9c7d9ee6488a6bea0a0dc
+19,Electra,64904,0,28 03 2022 ,FALSE,25,60,sahara-evols-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/00798a821e572832c41ff2fdb5df8ce8
+20,Kratos,120000,90,04 01 2022 ,TRUE,100,120,tork-motors-ev,Tork,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/e1dcf9987d8849e1ff00a0980cd7c29e
+21,AERA 5000,173999,180,23 01 2023 ,TRUE,105,125,matter-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/58730f14d44561fe7828b6a487da6510
+22,E1+,89999,30,01 11 2023 ,TRUE,65,70,bounce-infinity-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2600103284486a8b18dd8a99068f9739
+23,Dot One,100000,90,15 12 2023 ,TRUE,105,151,simple-energy-ev,Simple,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/1d5cea30ff582393ad250e1a5cb9e8db
+25,Mihos,149000,7,12 01 2023 ,TRUE,65,130,joy-e-bike,Joy e-bike,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2023-02-23-11-02-43-bLUE_REfreshed.png
+26,Magnus EX,94900,30,19 05 2021 ,TRUE,53,90,ampere-ev,Ampere,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/a700385f01b257c414cabb29a3f8ccaa
+27,Star,180000,180,07 09 2023 ,TRUE,70,100,lml-emotion-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-10-03-13-10-79-blob
+28,PRO,119980,150,01 03 2022 ,TRUE,90,100,electron-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-05-04-09-05-34-blob
+29,Optima CX(Dual),85190,0,08 04 2022 ,TRUE,45,140,hero-electric-ev,Hero Electric,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/3bc70be2fa819e1bff8b3bb94132b702
+30,iQube 2.2 kWh,95000,90,12 05 2024 ,TRUE,75,75,tvs-ev,TVS,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/41d7b18b1018196e770fd2bdc6bf82b8
+31,Rizta Z - 3.7 kWh,145000,30,06 04 2024 ,TRUE,80,160,ather-energy-ev,Ather,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/0c7e65a8cd7b5c8f6174d93de4de79fb
+32,OXO-X,162558,1,05 09 2024 ,TRUE,95,150,hop-electric-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/8a039e8aa1b1e3fc0720f06c57991d9a
+33,Magnum X,67000,0,10 01 2022 ,FALSE,45,70,kyte-energy-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/355ac906a9dcd403dc300d136e8f00a9
+34,ecoDryft,119999,60,01 01 2023 ,TRUE,80,151,pure-ev,Pure,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/83c46ca384130c4040c65942ede71bf8
+35,Optima HX (Dual Battery),74039,30,01 01 2022 ,TRUE,45,122,hero-electric-ev,Hero Electric,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/62edfc45407818882384ec6a7818f659
+36,blue 2901 Standard,96000,30,07 06 2024 ,TRUE,63,123,bajaj-ev,Bajaj,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/75eeb5b3f6e8b6787d1dadf084ae3165
+37,Kratos R,187499,90,04 01 2022 ,TRUE,105,180,tork-motors-ev,Tork,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/0d077f01aaefdbabf75a05704df7ba73
+38,Primus,109900,0,01 06 2023 ,TRUE,77,107,ampere-ev,Ampere,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/038421a7da4d5c2452b09be2cfa7a99d
+39,Flurry,95000,0,02 12 2022 ,TRUE,55,90,altux-electric-vehicles-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2023-03-21-19-03-38-blob
+40,Rizta S,109000,30,06 04 2024 ,TRUE,80,123,ather-energy-ev,Ather,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/31dcdef70e5c0429279266833fcd90d5
+41,V21L,3499000,0,28 08 2022 ,TRUE,275,150,ducati-moto-e-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/0a27e3610e78c127f5e1a73d4b556d68
+42,BUSTAR,87775,0,06 06 2022 ,TRUE,45,116,bu4-auto-ev,BU4,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-07-16-08-07-06-blob
+43,Hawk,120000,30,04 07 2022 ,TRUE,80,150,evolet-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/bf986d56ed1b3ea0604f63a47d124f83
+44,Rorr,149999,60,03 07 2022 ,TRUE,100,187,oben-electric-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2023-04-18-19-04-36-blob
+45,F77 recon,455000,180,25 11 2022 ,TRUE,147,307,ultraviolette-automotive-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/9d99917f3a261a98a9f75f14ad62b793
+46,Fusion,64904,0,28 03 2022 ,FALSE,25,75,sahara-evols-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/6c8f8def9c5aa849c363d429560a7420
+47,Chetak PREMIUM TECPEC,144463,45,05 01 2024 ,TRUE,73,126,bajaj-ev,Bajaj,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/a2368485ce5cbf24dedb7ce4f5c479e7
+48,Okhi-90,121866,90,22 03 2022 ,TRUE,74,161,okinawa-scooters-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-04-21-09-04-29-blob
+49,F77 Limited Edition,550000,180,25 11 2022 ,TRUE,152,307,ultraviolette-automotive-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2023-02-03-14-02-30-blob
+50,OXO 100,173533,0,09 06 2022 ,TRUE,88,140,hop-electric-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/7f1fa81362e131a11aa98b6cd630dba9
+51,E1,70999,90,01 12 2021 ,TRUE,65,85,bounce-infinity-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/390eeebf3c2f135c3bb558f54798a674
+52,blue 2901 TECPAC,99000,30,07 06 2024 ,TRUE,63,123,bajaj-ev,Bajaj,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/6f47306398fd92744a2b9f27bc7f9ec5
+53,450X Pro (2.9 kWh),151000,0,03 08 2023 ,TRUE,90,111,ather-energy-ev,Ather,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/f4edc6ffe2d39d1043127b581737dc86
+54,ADIDEV,43000,0,04 01 2000 ,TRUE,40,80,oreva-e-bike,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/aae51d9b8828db8695fd65a02f9c2c7e
+55,Optima (HX) Single Battery,65640,60,16 10 2020 ,TRUE,45,82,hero-electric-ev,Hero Electric,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/8f797d2779e0ddbdaed59a8c5675e2ad
+56,Fusion Dx,64904,0,28 03 2022 ,FALSE,25,80,sahara-evols-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/080dfe9b79cc8df37714c43633af1911
+57,450S Pro,145000,20,03 08 2023 ,TRUE,90,115,ather-energy-ev,Ather,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/da60a1bc2cdd07f8fc331864e7858b53
+58,450S,110000,20,03 08 2023 ,TRUE,90,115,ather-energy-ev,Ather,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/571c3d7383cbc771b4ed43bb6b8acd45
+59,AE-75 STD,80000,0,05 09 2022 ,TRUE,55,80,hero-electric-ev,Hero Electric,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/745b1b258b63fa4c0a075d181b7c623c
+60,Ranger,168000,30,06 09 2021 ,TRUE,80,200,komaki-electric-vehicle-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/f99ab51537cc343a0098769ac684da2f
+61,Acute,109889,30,01 03 2024 ,TRUE,65,150,sokudo,Sokudo EV,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/29ba9912abf48230b47d4130548ac03a
+62,Reo+,65999,0,18 11 2020 ,FALSE,25,63,ampere-ev,Ampere,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-04-14-09-04-06-blob
+63,NYX HS500 ER (Dual Battery),86540,30,01 08 2019 ,TRUE,42,138,hero-electric-ev,Hero Electric,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/ee14dee015f835d93a5725dd80078aef
+64,OXO Prime,133798,1,05 09 2024 ,TRUE,82,120,hop-electric-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/e3d245529e2769a348b186117f8f7a70
+65,450 Apex,189629,45,06 01 2024 ,TRUE,100,110,ather-energy-ev,Ather,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/00695b9bd26eb0e031fcbf6780e69b11
+66,JMT CLASSIC CITY,52000,0,05 01 2000 ,FALSE,25,70,jitendra-new-ev-tech,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/b8c03bd84b3a6a072a211dfac0ef4844
+67,Optima CX,67200,0,08 04 2022 ,TRUE,45,82,hero-electric-ev,Hero Electric,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-04-11-12-04-46-blob
+68,Astrid Lite,111195,0,12 04 2021 ,TRUE,65,200,gemopai-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/cd3ae2f719b656209e008389a110f785
+69,Reo Li +,59900,180,01 02 2024 ,FALSE,25,70,ampere-ev,Ampere,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/e67f484e7684f31d9fe283c80b7be302
+70,Rizta Z - 2.9 kWh,125000,30,06 04 2024 ,TRUE,80,123,ather-energy-ev,Ather,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/1634c001851bd34c77f49c6de6ea52c3
+71,Phoenix,95000,7,25 05 2023 ,TRUE,50,110,bu4-auto-ev,BU4,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2023-03-18-18-03-31-Phoenix_Mettalic_Green.png
+72,Optima 5.0,129890,1,01 02 2024 ,TRUE,55,135,hero-electric-ev,Hero Electric,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/35fa519213edd7f118a8d12d713f2c15
+73,Zeal EX,96690,180,01 03 2024 ,TRUE,55,100,ampere-ev,Ampere,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/087880e8664fba5c54d7d8e84ded26f4
+74,iQube ST 3.4 kWh,156000,90,13 05 2024 ,TRUE,78,100,tvs-ev,TVS,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/e2b8975a21f0b5c0d2232b2e0259a0d9
+75,PRO-MAX,179990,150,01 03 2022 ,TRUE,100,200,electron-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/445ecc814ba72e3b876d3c18b452496a
+76,Atria Lx,66640,30,12 05 2021 ,FALSE,25,85,hero-electric-ev,Hero Electric,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/f2428528c9c56aa6f4e339f303ec55f6
+77,Nexus EX,109900,30,01 05 2024 ,TRUE,93,136,ampere-ev,Ampere,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2ad629c63fc4765495560c89aae1fa37
+78,Faast F4,113999,30,16 03 2022 ,TRUE,70,160,okaya-electric-vehicles,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-05-17-06-05-08-blob
+79,Harper ZX,62000,0,31 05 2022 ,TRUE,60,100,greta-electric-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-07-13-08-07-38-blob
+80,PRO-X,159997,150,01 03 2022 ,TRUE,100,200,electron-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/4ea2802cef824c5321bf83495e18dda2
+81,450X (2.9 kWh),138000,0,03 08 2023 ,TRUE,90,111,ather-energy-ev,Ather,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/49620506bef9d53e4666280e8aeb3433
+82,R30,61998,0,24 07 2020 ,FALSE,25,60,okinawa-scooters-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/a3eb1ce4080ab36f6aa1eae5067af3d0
+83,Chetak URBANE  TECPEC,123001,45,05 01 2024 ,TRUE,73,113,bajaj-ev,Bajaj,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/bb005a87150db62eedc705920eddc640
+84,Chetak PREMIUM Standard,135436,45,05 01 2024 ,TRUE,73,126,bajaj-ev,Bajaj,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/5ff082838f76d1932c550d6564e09612
+85,Flash LX,59640,30,12 10 2021 ,FALSE,25,85,hero-electric-ev,Hero Electric,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/3a5550b37e276156f18706f96fad9bc1
+86,Dodo,90000,7,23 02 2023 ,FALSE,25,90,bu4-auto-ev,BU4,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2023-03-18-18-03-86-Mettalic_Green.png
+87,EDGE DX,49999,30,04 01 2021 ,FALSE,25,60,yo-bykes-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-04-09-07-04-95-3_Eadg.png
+88,Zing HSS,85000,0,28 07 2022 ,TRUE,60,120,kinetic-green-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/57ed4219d24f938b8a63ac70cf1dda19
+89,SPARROW,66405,0,06 04 2022 ,TRUE,25,70,tylos-e-vehicles,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-08-02-06-08-01-blob
+90,JMT 1000 3k,127874,1,01 03 2023 ,TRUE,52,130,jitendra-new-ev-tech,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/3cfa78ea3f6d4b69e97297128bb76b69
+91,Photon LP,86391,14,01 03 2023 ,TRUE,45,90,hero-electric-ev,Hero Electric,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/dde30a07f3a50ad61ae211c8be2523b3
+92,Wolf,75000,0,21 01 2021 ,FALSE,25,70,joy-e-bike,Joy e-bike,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/0067ca86d6c5c4a2b9423ee3f4ade4f8
+93,Praisepro,87593,30,02 02 2021 ,TRUE,56,81,okinawa-scooters-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-04-14-07-04-19-blob
+94,wolf +,110000,0,21 01 2021 ,TRUE,70,88,joy-e-bike,Joy e-bike,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/c27b503d1c502251e21341450581a0bf
+95,Drift Dx,51000,30,04 01 2021 ,FALSE,25,60,yo-bykes-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/db6907a8a1279d39f29ed6bc56d8a3c7
+96,Storie,89600,0,14 06 2022 ,TRUE,65,132,batt:re-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-06-28-07-06-71-blob
+97,KM3000,126000,60,15 11 2021 ,TRUE,100,120,kabira-mobility,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-04-14-12-04-20-blob
+98,Indrajeet,133095,30,16 11 2021 ,FALSE,25,160,raft-motors-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-04-14-12-04-91-blob
+99,Miso,44000,0,12 04 2021 ,FALSE,25,75,gemopai-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/afdbdce8a4442462c88755f17c9c58db
+100,Epluto 7g,89999,0,01 01 2022 ,TRUE,63,151,pure-ev,Pure,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/3ad90b3135432ea97e7707fb343575f0
+101,Eddy,72000,90,09 04 2022 ,FALSE,25,85,hero-electric-ev,Hero Electric,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-04-11-12-04-53-blob
+102,Optima CX 2.0,106590,1,01 02 2024 ,TRUE,48,89,hero-electric-ev,Hero Electric,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/c0aba97f80999c0c61f01669a4afc008
+103,Nexus ST,119900,30,01 05 2024 ,TRUE,93,136,ampere-ev,Ampere,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/665832c2128bac4ee279255f8ff6294a
+104,KM4000,136000,60,15 11 2021 ,TRUE,120,150,kabira-mobility,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/6a5d5080669d88aa8c3c8402f4d6e9b5
+105,Venice Classic,79000,0,19 10 2022 ,TRUE,70,100,komaki-electric-vehicle-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/82c9bfd4a538bfc223110f757ba01cc2
+106,OXO,139452,1,01 10 2022 ,TRUE,88,140,hop-electric-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/9036eb054c6089ca8442709e546516dd
+107,DERBY CLASSIC,60114,30,12 01 2022 ,FALSE,25,120,evolet-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/cd0d4a2e1fbd5e584eb14777a539ea8e
+108,Etrance Neo,83999,0,03 02 2022 ,TRUE,63,151,pure-ev,Pure,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/d9e8282bf5f4152602b2d58e6dc8e520
+109,Magnum Pro,80999,0,19 10 2022 ,TRUE,60,140,kyte-energy-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-11-02-17-11-07-blob
+110,Dom E Scooty,60000,0,04 01 2000 ,TRUE,45,70,alexa-e-vehicle,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-04-14-12-04-49-blob
+111,DOVE Plus,85000,0,09 05 2022 ,FALSE,25,160,tylos-e-vehicles,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2023-03-27-20-03-51-13-DOVE-PLUS_WHITE-1-transformed.png
+112,Yakuza Rubie 60V,55000,7,01 04 2022 ,TRUE,45,60,yakuza-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2023-04-09-18-04-19-blob
+113,eTryst 350,149999,60,14 04 2022 ,TRUE,85,140,pure-ev,Pure,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/66449cc32921e9d6b9d7ba3322637344
+114,iPraise+,113023,90,12 04 2021 ,TRUE,56,137,okinawa-scooters-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/b11982b0611e110e6d92094d26fcee30
+115,G-LITE,72500,0,10 01 2022 ,FALSE,25,90,gravity-renewable-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/ea0228065dc09c2f715c5a828ce62d8e
+116,F77,380000,90,09 03 2022 ,TRUE,152,307,ultraviolette-automotive-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/844c06e7f747535ec685530a5edf9c97
+117,Kollegio Neo,57044,60,15 11 2021 ,FALSE,24,100,kabira-mobility,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/898115ca7500e8b023d20a4912e2b7a3
+118,Ryder,70850,0,12 04 2021 ,FALSE,25,90,gemopai-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/f0bc37cca4b8ce480961b4e3994f3b0a
+119,PHOENIX,68000,0,07 06 2022 ,TRUE,25,90,tylos-e-vehicles,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-08-02-07-08-87-blob
+120,Indus Pro (Dual Battery),245172,30,16 11 2021 ,FALSE,25,480,raft-motors-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/9de4c8a9dfb059368e122c802dadbcbe
+121,Loev,65900,0,03 08 2020 ,FALSE,25,75,batt:re-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/c5772753c40bf14002a34a41e539059c
+122,Trex,95000,0.1,18 05 2022 ,TRUE,68,105,xplore-ev-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/1a042b2e3936952245defc7e3bad38ab
+123,A2,76199,30,07 09 2021 ,FALSE,25,75,bgauss-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/fdcbc63076f4361d99fb59da2d7c17ca
+124,GT5,125000,30,16 11 2021 ,TRUE,50,150,white-carbon-motors-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/240ddb5078d53d2384f2f02849509230
+125,Globe,77400,30,21 01 2021 ,FALSE,25,60,joy-e-bike,Joy e-bike,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-04-14-08-04-21-blob
+126,B8,82999,30,01 08 2020 ,TRUE,50,70,bgauss-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/12aad0e522fe9633fd3e518f98d877ba
+127,ClassiQ+,69500,0,07 09 2021 ,FALSE,25,70,okaya-electric-vehicles,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/060d746148f383c7a678688386123450
+128,TN95,98000,30,06 09 2021 ,TRUE,65,180,komaki-electric-vehicle-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/c4d70c71bb2d5059e3329ccc539bdcfc
+129,Photon Hx,74240,30,31 01 2022 ,TRUE,45,108,hero-electric-ev,Hero Electric,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/7854aa43a0f82d29b66d13813f9ca163
+130,Vahak Vyom,85000,0,01 01 2021 ,TRUE,55,90,vahak-future-solution-llp-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2023-04-14-20-04-28-blob
+131,Zing,71990,0,10 01 2022 ,TRUE,25,70,kinetic-green-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/a2526c1eda27712c4d02e4aeae9ee0c3
+132,DRIXX,80999,30,07 02 2022 ,FALSE,25,80,deltic-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/1cc61a2144aaa0a9fe830bb56a30a6c6
+133,Jeet X,99999,90,22 08 2022 ,TRUE,65,100,ivoomi-energy-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-12-28-21-12-69-6.png
+134,Spark,63000,0,01 01 2000 ,FALSE,25,70,blix-electric-scooters,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-04-14-10-04-89-blob
+135,E Monster,156000,30,21 01 2021 ,TRUE,60,95,joy-e-bike,Joy e-bike,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/9da66dc141dbcb7876dee0cda3f8f929
+136,Ridge+,69783,90,11 01 2021 ,TRUE,45,81,okinawa-scooters-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-04-14-08-04-71-blob
+137,Gen Next Nanu+,106991,0,21 01 2021 ,TRUE,70,88,joy-e-bike,Joy e-bike,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/c64e59b684c0b1f61680186c3c09a5fd
+138,Kollegio Plus,66978,60,15 11 2021 ,FALSE,24,100,kabira-mobility,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/b1e3b5f2612ecd9306ad04cbce9d26ca
+139,Star,87775,7,21 08 2021 ,FALSE,45,85,green-power-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/f1517414ebed0511050db08a57f680f4
+140,Zooba,53000,7,27 10 2022 ,TRUE,25,80,tnr-electric-vehicles,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2023-03-28-15-03-29-bike-section-tumbnails-zooba-min.jpg
+141,POLO ClASSIC EZ,69999,30,12 01 2022 ,FALSE,25,100,evolet-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-04-12-10-04-27-Screenshot_2022-04-12_153119-removebg-preview.png
+142,M5,99000,30,06 09 2021 ,TRUE,85,120,komaki-electric-vehicle-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/b0cded1a55815f710437e24cb685e781
+143,Trono,175000,90,05 11 2019 ,TRUE,100,100,rowwet-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/9cf07b1e168a6ef4359889f2b693545b
+144,S1,84999,3,01 12 2022 ,TRUE,55,110,ivoomi-energy-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/565aec7ada42a1066a91727501455513
+145,Pentro E Scooty,58000,0,04 01 2000 ,TRUE,45,70,alexa-e-vehicle,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-04-14-10-04-38-blob
+146,Gen Next Nanu,70000,0,21 01 2021 ,FALSE,25,70,joy-e-bike,Joy e-bike,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-04-14-08-04-86-blob
+147,SKYLER,105000,0,01 01 2000 ,FALSE,25,80,blix-electric-scooters,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-04-14-10-04-24-blob
+148,Freedum,69990,0,07 09 2021 ,FALSE,25,75,okaya-electric-vehicles,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/e31da70e4394c6d1a7177e896c19d136
+149,IRA,74999,60,16 02 2022 ,FALSE,25,90,hayasa-e-mobility-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/0410ecc4acc7a277659aa0c9ccf7e5f0
+150,D15 Pro,145651,30,14 03 2022 ,TRUE,60,115,bgauss-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-05-16-12-05-11-blob
+151,CIVITAS,108000,0,03 05 2022 ,TRUE,85,120,m2go-electric-vehicle,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-06-27-10-06-50-blob
+152,SOUL,140000,60,17 05 2022 ,TRUE,45,120,eeve-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/a5686cd257a83ef1551f11c5c3577c59
+153,EStyla,60000,7,30 11 2022 ,FALSE,25,80,tnr-electric-vehicles,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2023-03-28-16-03-23-bike-section-tumbnails-estyla-min-1.jpg
+154,BUSHINE,85675,0,14 06 2022 ,TRUE,45,116,bu4-auto-ev,BU4,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-07-16-09-07-47-blob
+155,Abelia,77000,0,01 07 2022 ,FALSE,25,90,altux-electric-vehicles-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2023-01-06-09-01-67-Abelia_1.png
+156,XGT-KM,68999,30,06 09 2021 ,FALSE,25,80,komaki-electric-vehicle-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/49af5166be5b0447a7263a98b5eea28a
+157,Zoom,77500,0,10 01 2022 ,TRUE,45,80,kinetic-green-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/1fb3000ea4ca4646cbf7518727002685
+158,Earth,81000,7,08 09 2021 ,FALSE,25,100,green-power-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/1bc687271072eea82b45b0030d813955
+159,One,550000,90,01 07 2022 ,TRUE,200,200,emflux-motors-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/f214e0409452ceee5cd266d864b284cb
+160,One,73900,0,01 05 2020 ,FALSE,25,60,batt:re-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/ccea3e3be70b2d2e6172ba3815c7e423
+161,Lite,76000,7,12 07 2022 ,TRUE,25,60,okinawa-scooters-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-08-26-07-08-33-blob
+162,XGT CHARGE,98000,30,06 09 2021 ,TRUE,75,110,komaki-electric-vehicle-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/edf2aa9add9464f52981d1f87111e354
+163,SKYLINE,229000,0,21 01 2021 ,TRUE,90,110,joy-e-bike,Joy e-bike,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/075bd5aeb8deb6006196e5aba245bddf
+164,BZINESS (LFP),105957,0,23 02 2023 ,TRUE,60,130,quantum-energy-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2023-04-20-18-04-59-blob
+165,Thunder Bolt,233000,30,21 01 2021 ,TRUE,90,110,joy-e-bike,Joy e-bike,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-04-14-08-04-26-blob
+166,Turner Classic,65000,0,29 05 2022 ,TRUE,40,80,tnr-electric-vehicles,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/b3bf1fbc7dc9f858b19e282bcbb20962
+167,Monster,102900,30,21 01 2021 ,FALSE,25,75,joy-e-bike,Joy e-bike,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/65f6c912d7d7db1ea88e5038e442e22e
+168,YODA,185000,30,06 06 2022 ,TRUE,90,150,cyborg-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/9eaa840357b4c54f5a2bf286186c2357
+169,Beast,242000,30,21 01 2021 ,TRUE,90,110,joy-e-bike,Joy e-bike,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/a941a41d3c24b98c6350b6ca85204f80
+170,Vista,94770,0,03 01 2022 ,FALSE,25,70,leo-autocorp-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-04-29-11-04-27-blob
+171,O3,55900,30,16 11 2021 ,FALSE,25,60,white-carbon-motors-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/ae00048b97e19b83e89b0680e4a4c3e9
+172,D15i,134515,30,14 03 2022 ,TRUE,60,115,bgauss-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/02e3501ee0386d70c0d002edb18379f1
+173,LYF STANDARD,89999,60,31 01 2022 ,TRUE,25,80,hop-electric-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/9d0f5bd0c6cf318efa9732ce031a33b0
+174,Bob-B,95000,30,02 05 2022 ,TRUE,85,110,cyborg-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-07-13-06-07-92-blob
+175,Evoqis,166500,90,01 06 2020 ,TRUE,80,140,odysse,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/22f2cbe55700abc703b45d9c97fe76a1
+176,GT 12O,165000,30,16 05 2022 ,TRUE,125,180,cyborg-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-07-13-06-07-05-Screenshot_2022-07-13_122323-removebg-preview.png
+177,Muscular,75000,0,01 07 2022 ,FALSE,25,90,altux-electric-vehicles-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2023-01-06-09-01-27-mus1.png
+178,Thunder,63000,0,01 01 2000 ,FALSE,25,70,blix-electric-scooters,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/345250ab30af654b3daf0b80c3b62693
+179,Vegatron,118000,30,25 08 2020 ,TRUE,55,145,rowwet-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/d45442ac89d0f7021e3b6076fa554d45
+180,Hurricane,230000,30,21 01 2021 ,TRUE,90,80,joy-e-bike,Joy e-bike,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-04-14-08-04-11-blob
+181,RIDE,80000,0,07 12 2021 ,TRUE,55,90,evtric-motors,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/17245b209128caeb3260ba4db43effbf
+182,C12i MAX,126153,1,05 09 2023 ,TRUE,62,135,bgauss-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/3a26e893d1bed3e85a13d62010ece759
+183,Dual 100,119085,30,10 02 2021 ,TRUE,60,129,okinawa-scooters-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/a58c32614bb9e641732de3c887e76efe
+184,Ojas,72999,60,16 02 2022 ,FALSE,25,90,hayasa-e-mobility-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/a6385260eb0b943cef18f1cda7537c67
+185,FT150 VX,68000,30,10 07 2022 ,FALSE,45,70,tx9-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/7bdc8a2fa9dc922775690421a2b6cdad
+186,XGT Classic,100100,30,06 09 2021 ,TRUE,75,105,komaki-electric-vehicle-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2ffdeaaf80845fe665dc384e3052c8af
+187,LYF,74999,60,31 01 2022 ,FALSE,25,90,hop-electric-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/48a987c9875e6f32452282fc87f45e9c
+188,Magnetic,93700,30,16 11 2021 ,TRUE,65,100,raft-motors-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/0409e3269e9e91231cf8c33c551b9cee
+189,Eleq,108000,30,25 08 2020 ,TRUE,65,145,rowwet-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/aab76bfc99dc1f4ce5cb1203ab789353
+190,Romas,95000,0,27 03 2022 ,TRUE,55,90,tunwal-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-07-13-10-07-07-blob
+191,FT350 VX,129839,60,07 06 2022 ,TRUE,45,201,tx9-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/6d869178326a9718ea23d6f7348512ac
+192,XGT X3,87999,30,06 09 2021 ,TRUE,45,90,komaki-electric-vehicle-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-04-14-06-04-90-blob
+193,Aura Li,94296,90,31 12 2021 ,TRUE,65,120,benling-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/c83ff56f065d413b0a00d83de660d8bd
+194,Triton Ray,138000,0,10 05 2022 ,TRUE,65,100,hunda-ev-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/bab420f5238f341e9dfefd14129d6989
+195,Storm ZX,90000,0,06 06 2022 ,TRUE,25,70,tunwal-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-07-13-10-07-33-blob
+196,VIDYUT 108,86449,0,06 10 2021 ,FALSE,25,70,dao-ev-tech,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/998a3fbff451dfa06460bb0d734e7235
+198,E LUNA X1,74990,90,07 02 2024 ,TRUE,50,90,kinetic-green-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/41979e63e28e5d8d99ed00ebcd1c9971
+199,Quanta,115000,180,12 06 2021 ,TRUE,80,160,gravton-motors-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2023-04-03-19-04-03-blob
+200,Commuta,130000,0,01 01 2021 ,TRUE,55,80,one-moto-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/87b23f8f3c069e648bf2b0f7d2dc26f6
+201,Venice Eco,115000,30,06 09 2021 ,TRUE,65,100,komaki-electric-vehicle-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/bd73eae47590be7b1e5090bf04345489
+202,T 133,100000,0,10 05 2022 ,TRUE,55,100,tunwal-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-07-13-10-07-97-blob
+203,PONY CLASSIC EZ,67000,30,12 01 2022 ,FALSE,25,120,evolet-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-04-14-11-04-36-blob
+204,XGT X2 VOGUE,70000,30,06 09 2021 ,FALSE,25,100,komaki-electric-vehicle-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/381e882fe3ba77e6d56668f01f5d47bf
+205,XGT X4,89000,30,06 09 2021 ,TRUE,45,90,komaki-electric-vehicle-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/0375a1af1bc986207f3307a303b3bff2
+206,Jetter,64000,7,18 10 2022 ,FALSE,25,120,tnr-electric-vehicles,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2023-03-28-14-03-83-JETTER.jpg
+207,Warrior,84642,30,09 11 2021 ,FALSE,25,75,raft-motors-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-04-23-07-04-65-blob
+208,Warrior,84642,30,09 11 2021 ,FALSE,25,75,raft-motors-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-04-23-07-04-65-blob
+209,BREEZE,66999,0,01 01 2000 ,FALSE,25,70,blix-electric-scooters,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/9f9d79e3b33004746d94ebf92e8f8d7a
+210,DOVE,80000,0,04 04 2022 ,FALSE,25,80,tylos-e-vehicles,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2023-03-27-20-03-93-10-DOVE_BLUE-1-transformed.png
+211,G1,69998,90,01 03 2022 ,TRUE,65,80,rugged-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/334da5080693c6cb5a72187474ca563a
+212,VICTORY,65000,0,01 01 2000 ,FALSE,25,70,blix-electric-scooters,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-04-14-10-04-80-blob
+213,IOT,79999,0,27 07 2020 ,FALSE,25,85,batt:re-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/ae2830dbf4b9fd0c9946f32ebe3dc0ca
+214,SE,96000,30,06 09 2021 ,TRUE,60,90,komaki-electric-vehicle-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/db9852145fe2555b03ee8b15deb4bc60
+215,X-ONE,70000,30,06 09 2021 ,FALSE,25,60,komaki-electric-vehicle-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-04-05-09-04-48-blob
+216,JMT 1000,74000,0,05 01 2000 ,TRUE,55,65,jitendra-new-ev-tech,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/4b3df6fb5ef7767f8391916f63b0a0f0
+217,Zoom,65055,0,09 11 2021 ,FALSE,25,60,shema-e-vehicle-and-solar-ses,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/b6826d8008451e69d10f6086b1bef2d7
+218,Glyde SX,75000,60,08 02 2022 ,FALSE,25,150,earth-energy-ev-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/29eb27cbe04c9c361f3f81778fe4593b
+219,BZINESS (NMC),105957,0,23 02 2023 ,TRUE,60,95,quantum-energy-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2023-04-20-18-04-91-blob
+220,Racer,70500,0,27 09 2021 ,TRUE,45,70,odysse,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/a49c2b8dc3185d693389bcd894f95c72
+221,Costa,74500,60,10 01 2022 ,FALSE,25,60,deltic-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/a2d19be10f204130c21c7de5f5850846
+222,AXIS,75000,0,07 12 2021 ,FALSE,25,60,evtric-motors,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/e487d21b62f4f7dbbde6264ae186c229
+223,Hawk lite,96500,90,01 06 2020 ,TRUE,45,85,odysse,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/9f9bf1a6644fef26191652ed19ec874c
+224,Zulu,94990,1,11 12 2023 ,TRUE,60,104,kinetic-green-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/3d21f2893d79c1ce1d36e09667b0ded3
+225,Prime+,79770,0,04 10 2021 ,FALSE,25,60,leo-autocorp-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-04-29-11-04-09-blob
+226,JMT 1000 HS,97224,0,05 01 2000 ,TRUE,52,90,jitendra-new-ev-tech,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/63c8d965e1398d0ccd86e031e8ae80a9
+227,LYF EXTENDED,89999,60,31 01 2022 ,TRUE,45,125,hop-electric-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/a5373f719081369e9861491b3bd5b23e
+228,Racer Lite,82500,0,07 12 2020 ,TRUE,45,75,odysse,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/8b7db800d4f8ea197057606b23414326
+229,NX120,116483,60,30 08 2022 ,TRUE,55,110,poise-scooters-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/a49b937c64037988f6892b82aae5ffb1
+230,Active,78670,0,03 01 2022 ,FALSE,25,60,leo-autocorp-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-04-29-11-04-47-blob
+231,Eagle,68000,0,20 12 2021 ,TRUE,42,60,viertric-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/7bf9664aaa6e9303fd355d76ccb127cb
+232,65R,70000,30,27 12 2021 ,FALSE,25,85,ank-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/f32cb0cca3c22622367a33a4e60e4335
+233,Eagle,74744,0,09 11 2021 ,FALSE,25,160,shema-e-vehicle-and-solar-ses,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-05-03-10-05-91-Screenshot_2022-05-03_160204.png
+234,RISE,160000,0,06 12 2021 ,TRUE,75,120,evtric-motors,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-06-24-06-06-25-blob
+235,FALCON,69540,60,31 12 2021 ,FALSE,25,75,benling-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/848f29ce989ca0624142742a8a842e9b
+236,G-ONE,72500,0,10 01 2022 ,FALSE,25,60,gravity-renewable-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/acb8134a85e0b692ae9260467f34e444
+237,Max,68000,0,20 12 2021 ,TRUE,42,60,viertric-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/3f88da7a9424c20c806812dae51038d3
+238,FT450 LX,136475,3,12 10 2022 ,TRUE,80,120,tx9-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/b5de903024f9c47455c40f0558a6c03d
+239,Hawk plus,114500,90,01 06 2020 ,TRUE,70,170,odysse,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/7217bf3124bb6f8b57736ea39fbf846e
+240,Gps:ie,69900,0,01 09 2020 ,FALSE,25,65,batt:re-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/d84df4da1d8f6adddd58ecc914420122
+241,Grazia GT,85000,0,01 01 2021 ,TRUE,55,70,vahak-future-solution-llp-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2023-04-14-21-04-88-blob
+242,MODEL 703,113954,0,06 10 1999 ,TRUE,70,111,dao-ev-tech,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-04-01-09-04-64-blob
+243,Licino,54500,7,18 10 2022 ,TRUE,25,55,tnr-electric-vehicles,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2023-03-28-15-03-54-blob
+244,G-Razor,72500,0,10 01 2022 ,FALSE,25,60,gravity-renewable-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-04-30-10-04-00-blob
+245,Glyde SX+,95000,60,08 02 2022 ,TRUE,90,100,earth-energy-ev-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/097cc56771aa9632ff0fc1e6ced2fa41
+246,Teesta,84862,30,09 11 2021 ,FALSE,25,100,raft-motors-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-04-23-07-04-54-blob
+247,FT150 LX,62000,30,10 07 2022 ,FALSE,45,65,tx9-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/6e90ffcd2d00b0faaf33e901e278e8e9
+248,Gracia,73000,0,01 09 2022 ,FALSE,25,90,altux-electric-vehicles-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/fd7ec553ff237b6c7156fc7e75bbedbf
+249,V4_MIST,72000,0,20 12 2021 ,TRUE,42,70,viertric-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-04-14-11-04-40-blob
+250,DAKSHA,79000,60,16 02 2022 ,FALSE,25,90,hayasa-e-mobility-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/03efbff99274d7684edb1f3b947a6621
+251,DOVE Lite,69000,0,09 05 2022 ,TRUE,25,80,tylos-e-vehicles,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-08-02-07-08-95-blob
+252,VOLTA,71000,0,01 01 2000 ,FALSE,25,70,blix-electric-scooters,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-04-14-10-04-78-blob
+253,Elektron,100592,0,12 01 2023 ,TRUE,60,95,quantum-energy-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/47936eb7212976b4bb301510b72638ae
+254,Indus,79049,30,09 11 2021 ,FALSE,25,90,raft-motors-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/b3dab307929b075bde9ca1abb9ca98e1
+255,Turner Ex,74000,0,05 04 2022 ,TRUE,40,80,tnr-electric-vehicles,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/30ae2dcb1e8c6368288a75bdf53fb221
+256,E2go Lite,69000,0,07 12 2020 ,FALSE,25,70,odysse,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/4bce98e02582641b082b8efd20aeb362
+257,Gt Drive +,107993,0,17 05 2022 ,TRUE,40,150,gt-force-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/ce88f24e71e1e9e099a01c65a8031efb
+258,MILAN,98491,0,22 11 2022 ,TRUE,60,95,quantum-energy-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2023-04-12-19-04-28-blob
+259,LEO EXTENDED,95999,60,31 01 2022 ,FALSE,25,125,hop-electric-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/06b1b831ff6f891b822f145a915a899c
+260,Nubra,83308,30,16 11 2021 ,FALSE,25,100,raft-motors-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/a40b84886ee29d1f88c21db1cd641a8c
+261,Byka,180000,0,01 01 2021 ,TRUE,85,150,one-moto-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/d839d2cae2e59877b6f99babb8963214
+262,LEO STANDARD,95999,60,31 01 2022 ,TRUE,25,75,hop-electric-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/92585cf2f866260718568be59873e203
+263,Dangus Pro,69360,0,01 02 2021 ,FALSE,25,80,tusawada-ev-energy,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/b5eda79d25d12998bb4435acf7d5ba9a
+264,FT450 VX,146545,3,12 10 2022 ,TRUE,80,140,tx9-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/bcc560eb3d0e6c229d9572a4d135b4a0
+265,X1,94500,0,03 05 2022 ,TRUE,50,120,m2go-electric-vehicle,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/8c881e5858fe3777c5fd1f1153927aa8
+266,GALAXY,72000,30,06 03 2022 ,TRUE,40,100,raftaar-electric-vehicles-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/e4b06dbaf378d98b246900f58ddd155e
+267,IndusNx,80049,30,16 11 2021 ,FALSE,25,75,raft-motors-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-04-23-07-04-57-blob
+268,BUMBLEBEE,88000,30,06 03 2022 ,TRUE,40,100,raftaar-electric-vehicles-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2023-04-09-16-04-27-blob
+269,XL,70000,0,20 12 2021 ,TRUE,42,60,viertric-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/7c6bbdcaf8f9dd0ca7e4ab7626456f36
+270,FT250 LX,73400,30,06 06 2022 ,FALSE,40,70,tx9-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/108e4888acb48fff251358e3cbd9219b
+271,Rame,103047,90,05 11 2019 ,TRUE,55,145,rowwet-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/d223fc4c2fb3aad1a182189c8c94453c
+272,LEO BASIC,81999,60,31 01 2022 ,FALSE,25,75,hop-electric-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/fbab47cf0ffcf0c45b4311242d9ed0f5
+273,Jispa,96810,30,09 11 2021 ,FALSE,25,100,raft-motors-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-04-14-12-04-76-blob
+274,Gt Prime +,75000,0,14 03 2022 ,TRUE,40,60,gt-force-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-07-13-09-07-10-blob
+275,Aetos 100,71540,60,15 11 2021 ,FALSE,24,100,kabira-mobility,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/5820fea7908d89fd5487e0ea011f56d0
+276,GRACE,104000,0,30 03 2022 ,TRUE,50,120,poise-scooters-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-07-13-11-07-93-blob
+277,Bold,85314,0,09 11 2021 ,FALSE,25,80,shema-e-vehicle-and-solar-ses,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2b723899ae1862868d9ebc90e3342bc2
+278,Electa,199000,0,01 01 2021 ,TRUE,85,150,one-moto-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/4c771fc312d9b16515c74b23787b14f7
+279,C12i Ex,104999,1,05 09 2023 ,TRUE,62,85,bgauss-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/827162dca3013faf1b3078fe62e3195f
+280,Racer Lite V2+,100450,14,12 09 2022 ,TRUE,25,150,odysse,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/3f4edf140a785cd1e26506f7cd23ffc5
+281,Astro+,95000,0,01 06 2022 ,TRUE,65,90,altux-electric-vehicles-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/3b405bf0da2c8eee025c6f03ccef904e
+282,XGT VP,82000,30,06 09 2021 ,FALSE,25,80,komaki-electric-vehicle-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-04-23-07-04-41-blob
+283,Ahava,72000,30,30 05 2022 ,TRUE,40,70,eeve-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-07-16-11-07-94-blob
+284,Jispa Nx,85567,30,09 11 2021 ,FALSE,25,60,raft-motors-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/4cba9d838f230345ebf325bea9163951
+285,E2go,59750,30,01 05 2022 ,TRUE,25,60,odysse,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/7ea510813ecdb903f56f784ae0867962
+286,Easy Go,86350,1,04 04 2022 ,TRUE,40,80,fidato-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/410f80553d47616b66eb3ff27f12e681
+287,Gt Drive Pro,75000,0,05 04 2022 ,TRUE,40,65,gt-force-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/991f132f93727fbe51d1fd19534a08e8
+288,Soldier,83308,30,09 11 2021 ,FALSE,25,100,raft-motors-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-04-23-07-04-37-blob
+289,Grazia Power,85000,0,01 01 2021 ,TRUE,55,80,vahak-future-solution-llp-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/889858750317911f09973d6c74d469b2
+290,Jetter Classic,86000,0,07 06 2022 ,TRUE,25,80,tnr-electric-vehicles,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-08-03-07-08-99-blob
+291,Leo V3,105000,1,18 01 2023 ,TRUE,70,110,hop-electric-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/5dfd8aaec48d261f4180457ed5b47fe0
+292,GT Flying,77763,0,30 05 2022 ,TRUE,40,65,gt-force-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/0839a660d7fee1746b5e2c3d15adece1
+293,E Luna X2,79990,30,07 02 2024 ,TRUE,50,110,kinetic-green-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/fe8281a0be1dd7395585e862b5524b0d
+294,Intercity Neo,72223,60,15 11 2021 ,FALSE,24,90,kabira-mobility,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/e12723aa568a9c29f4da1c09daccb5c5
+295,Zooba 30,73000,0,09 05 2022 ,FALSE,25,55,tnr-electric-vehicles,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2023-03-28-15-03-87-blob
+296,Atreo,72000,30,14 06 2022 ,TRUE,40,85,eeve-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-07-16-12-07-08-blob
+297,Cutie,70300,1,07 06 2022 ,TRUE,40,60,fidato-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-08-26-09-08-60-blob
+298,Easy Go Plus,95605,1,03 05 2022 ,TRUE,40,80,fidato-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/b433503318d469d4479da497087d85fa
+299,GT ONE +,87000,0,04 05 2022 ,TRUE,40,75,gt-force-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-07-13-09-07-82-blob
+300,Fidato-21,89990,1,06 06 2022 ,TRUE,40,80,fidato-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-08-26-09-08-64-Untitled_design_(38).png
+301,V2,77250,30,20 07 2022 ,FALSE,25,75,odysse,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/11d0383c5dc42ce28e4008989a243060
+302,CRUZER R1,84500,30,06 03 2022 ,TRUE,40,100,raftaar-electric-vehicles-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/41755f2ff9a95c78d84d7e874cd94df3
+303,Future 2020,70300,1,09 05 2022 ,TRUE,40,90,fidato-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/673f08b5ff0bc83afc5db62b90f8a9ed
+304,Grazia Pro,85000,0,01 01 2021 ,TRUE,55,70,vahak-future-solution-llp-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2023-04-14-21-04-58-blob
+305,Trot,99999,7,16 11 2022 ,FALSE,25,75,odysse,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2023-03-29-20-03-90-maroom-trot.png
+306,Mighty,87000,0,06 12 2021 ,FALSE,25,60,evtric-motors,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-06-24-06-06-68-blob
+307,Xeniaa,86999,60,30 05 2022 ,TRUE,45,80,eeve-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/74ad266862f62a2920892b8f9160da5d
+308,GT Soul,75350,0,29 03 2022 ,TRUE,40,65,gt-force-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2022-07-13-09-07-00-blob
+309,FT350 DX,101723,30,02 05 2022 ,TRUE,45,101,tx9-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/400e71b3bec4bd0b8ebb550af8d66c23
+310,ELECTRICA,70900,30,07 03 2022 ,TRUE,40,100,raftaar-electric-vehicles-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2023-04-08-20-04-36-blob
+311,FT350 LX,85533,60,07 06 2022 ,TRUE,45,101,tx9-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/40e416d6169084f587d7862f06f72a0e
+312,Glob,70000,1,01 01 2023 ,FALSE,25,70,joy-e-bike,Joy e-bike,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/80b5af93e55d463ef5fc657bf7e83a29
+313,Leo LS,84360,1,01 01 2023 ,FALSE,25,95,hop-electric-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/11577295078e8447ea25170d32a2bb47
+314,PRIMO,79999,1,03 01 2023 ,TRUE,52,70,jitendra-new-ev-tech,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/e5cf7a2158d057660007e2c18b9173cd
+315,FT250 VX,78300,30,06 06 2022 ,TRUE,40,70,tx9-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/08400b79977da390a3761409d4da6f38
+316,Gen Next Nanu,77400,1,01 01 2023 ,FALSE,25,70,joy-e-bike,Joy e-bike,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/0d3c1810f9f1f6b112ee58604ce56309
+317,E.1 LE,125615,30,02 12 2022 ,TRUE,65,70,bounce-infinity-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/14f876fe8274f7bacd3da26d2514b6a7
+318,Ridge+ (GPS),90606,150,01 10 2022 ,TRUE,81,45,okinawa-scooters-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/9dbf7e8b0112ebd509f8be60471efd45
+319,Ridge 100,115311,150,01 01 2017 ,TRUE,45,149,okinawa-scooters-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/0c5cbef7ad0d766883ecfcf0ccc81deb
+320,Leo HS,97504,1,01 01 2023 ,TRUE,52,120,hop-electric-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/f4d2a5e229ac3578fdf02c3d6b4721a6
+321,Dual 100,119085,150,01 01 2021 ,TRUE,60,129,okinawa-scooters-ev,Others,https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/2e08b56c07e88edaf677df657676e70f
